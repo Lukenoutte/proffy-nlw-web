@@ -68,6 +68,7 @@
   align-items: center;
   justify-content: space-evenly;
   transition: 0.2s;
+  margin-left: 3rem;
 }
 
 .teacher-item footer button:hover {
